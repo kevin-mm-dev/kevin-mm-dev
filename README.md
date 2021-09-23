@@ -10,7 +10,7 @@
   <img src="https://img.icons8.com/color/48/000000/dot-logo--v1.png" width= 20px> 
   About Me 
   <img src="https://img.icons8.com/color/48/000000/dot-logo--v1.png" width= 20px></h1>
-<img width="55%" align="right" src="https://media2.giphy.com/media/SYQZsJBTf2zE4/giphy.gif?cid=790b7611453dc2e25bae252e4a5a44895db8e393d71e8923&rid=giphy.gif&ct=g" />
+<img width="55%" align="right" src="https://media1.giphy.com/media/RQ8vM7tsD6Csw/giphy.gif?cid=790b761177e359afd330013b9883e33a9fedcc94e8bb0395&rid=giphy.gif&ct=g" />
 Here are some things that I am:
 
 - 🔭 I’m currently working on Dtrez Desarrollos or Own projects to practice
