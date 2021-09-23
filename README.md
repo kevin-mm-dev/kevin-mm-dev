@@ -38,14 +38,15 @@ Here are some things that I am:
 <a href="https://icons8.com/icon/20909/html-5" > <img width ='32px' src ="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"> </a>
 <a href="https://icons8.com/icon/20909/html-5" > <img width ='32px' src ="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"> </a>
 <a href="https://icons8.com/icon/20909/html-5" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+  <a href="https://icons8.com/icon/20909/html-5"><img width ='32px' src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
+  <a href="https://icons8.com/icon/20909/html-5"><img width ='32px' src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+  <a href="https://icons8.com/icon/20909/html-5"><img width ='32px' src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
+  <a href="https://icons8.com/icon/20909/html-5" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href="https://icons8.com/icon/20909/html-5" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href="https://icons8.com/icon/20909/html-5" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href="https://icons8.com/icon/20909/html-5"><img width ='32px' src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
-<a href="https://icons8.com/icon/20909/html-5"><img width ='32px' src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a href="https://icons8.com/icon/20909/html-5"><img width ='32px' src="https://img.icons8.com/color/48/000000/vue-js.png"/></a>
 <a href="https://icons8.com/icon/20909/html-5"><img width ='32px' src="https://img.icons8.com/fluency/48/000000/laravel.png"/></a>
 <a href="https://icons8.com/icon/20909/html-5"><img width ='32px' src="https://img.icons8.com/dusk/64/000000/php-logo.png"/></a>
-<a href="https://icons8.com/icon/20909/html-5"><img width ='32px' src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
+
 </div>
 
 
