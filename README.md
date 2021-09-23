@@ -10,7 +10,7 @@
   <img src="https://img.icons8.com/color/48/000000/dot-logo--v1.png" width= 20px> 
   About Me 
   <img src="https://img.icons8.com/color/48/000000/dot-logo--v1.png" width= 20px></h1>
-<img width="55%" align="right" src="https://media3.giphy.com/media/MQTF1uW0GTZoVsseXx/giphy.gif?cid=790b7611c54cd9c9ec379819315c51f514787c93ad2032b6&rid=giphy.gif&ct=g" />
+<img width="55%" align="right" src="https://media2.giphy.com/media/SYQZsJBTf2zE4/giphy.gif?cid=790b7611453dc2e25bae252e4a5a44895db8e393d71e8923&rid=giphy.gif&ct=g" />
 Here are some things that I am:
 
 - 🔭 I’m currently working on Dtrez Desarrollos or Own projects to practice
@@ -25,21 +25,25 @@ Here are some things that I am:
 <h1 align="center">My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h1>
 <br><br>
 <div align="center">
-<a href="https://icons8.com/icon/20909/html-5" > <img width ='32px' src ="https://img.icons8.com/fluency/48/000000/arduino.png"> </a>
-<a href="https://icons8.com/icon/20909/html-5" > <img width ='32px' src ="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"> </a>
-<a href="https://icons8.com/icon/20909/html-5" > <img width ='32px' src ="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"> </a>
-<a href="https://icons8.com/icon/20909/html-5" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href="https://icons8.com/icon/20909/html-5" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href="https://icons8.com/icon/20909/html-5" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href="https://icons8.com/icon/20909/html-5"><img width ='32px' src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
-<a href="https://icons8.com/icon/20909/html-5"><img width ='32px' src="https://img.icons8.com/color/48/000000/css3.png"/></a>
-<a href="https://icons8.com/icon/20909/html-5"><img width ='32px' src="https://img.icons8.com/color/48/000000/vue-js.png"/></a>
-<a href="https://icons8.com/icon/20909/html-5"><img width ='32px' src="https://img.icons8.com/fluency/48/000000/laravel.png"/></a>
-<a href="https://icons8.com/icon/20909/html-5"><img width ='32px' src="https://img.icons8.com/dusk/64/000000/php-logo.png"/></a>
-<a href="https://icons8.com/icon/20909/html-5"><img width ='32px' src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
+
+    <a href="https://icons8.com/icon/20909/html-5" > <img width ='32px' src ="https://img.icons8.com/fluency/48/000000/arduino.png"> </a>
+    <a href="https://icons8.com/icon/20909/html-5" > <img width ='32px' src ="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"> </a>
+    <a href="https://icons8.com/icon/20909/html-5" > <img width ='32px' src ="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"> </a>
+    <a href="https://icons8.com/icon/20909/html-5" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+    <a href="https://icons8.com/icon/20909/html-5"><img width ='32px' src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
+    <a href="https://icons8.com/icon/20909/html-5"><img width ='32px' src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+    <a href="https://icons8.com/icon/20909/html-5"><img width ='32px' src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
+    <a href="https://icons8.com/icon/20909/html-5" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+    <a href="https://icons8.com/icon/20909/html-5" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
+    <a href="https://icons8.com/icon/20909/html-5"><img width ='32px' src="https://img.icons8.com/color/48/000000/vue-js.png"/></a>
+    <a href="https://icons8.com/icon/20909/html-5"><img width ='32px' src="https://img.icons8.com/fluency/48/000000/laravel.png"/></a>
+    <a href="https://icons8.com/icon/20909/html-5"><img width ='32px' src="https://img.icons8.com/dusk/64/000000/php-logo.png"/></a>
+
+
+
 </div>
 
-<h1 align="center"> My Stats <img src="https://img.icons8.com/external-prettycons-lineal-color-prettycons/49/000000/external-stats-business-and-finance-prettycons-lineal-color-prettycons.png" width = 32px>/></h1>
+<h1 align="center"> My Stats <img src="https://img.icons8.com/external-prettycons-lineal-color-prettycons/49/000000/external-stats-business-and-finance-prettycons-lineal-color-prettycons.png" width = 20px></h1>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin-mm-dev&show_icons=true&theme=highcontrast&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
