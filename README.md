@@ -22,15 +22,18 @@ Here are some things that I am:
 <h1 align="center">My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h1>
 <br><br>
 <div align="center">
-  <a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=reactjs&sort= > <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
-  <a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=reactjs&sort= > <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> </a>
   
-  <a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=reactjs&sort= > <img src="https://img.icons8.com/fluency/48/000000/arduino.png"/></a>
-<a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-  v<a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=reactjs&sort= >
-  <img src="https://img.icons8.com/ios-filled/50/000000/ionic.png"/></a>
   
+    <a href="https://icons8.com/icon/20909/html-5"><img width ='32px' src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
+    <a href="https://icons8.com/icon/20909/html-5"><img width ='32px' src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/></a>
+    <a href="https://icons8.com/icon/20909/html-5"><img width ='32px' src="https://img.icons8.com/fluency/48/000000/arduino.png"/></a>
+    <a href="https://icons8.com/icon/20909/html-5"><img width ='32px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg"/></a>
+    <a href="https://icons8.com/icon/20909/html-5"><img width ='32px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg"/></a>
+  
+  
+  
+  
+  <a href="https://icons8.com/icon/20909/html-5"><img width ='32px' src="https://img.icons8.com/ios-filled/50/000000/ionic.png"/></a>
 <a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href="https://icons8.com/icon/20909/html-5"><img width ='32px' src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
 <a href="https://icons8.com/icon/20909/html-5"><img width ='32px' src="https://img.icons8.com/color/48/000000/css3.png"/></a>
