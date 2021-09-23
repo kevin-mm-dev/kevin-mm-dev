@@ -6,7 +6,7 @@
 <h2 align="center">💻 A passionate Fullstack Jr from México ☕</h2>
 <br><br>  
 
-<h1 align="center"> About Me <img src="https://media1.giphy.com/media/SYjYYopqUTBtE3XZxg/giphy.gif?cid=ecf05e47bwy3m5dxcc60ttw1mxkegfhiit2uv8aeyt2note2&rid=giphy.gif&ct=s" width = 50px></h1>
+<h1 align="center"> About Me <iframe src="https://giphy.com/embed/MQTF1uW0GTZoVsseXx" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animated-gif-mograph-animation-MQTF1uW0GTZoVsseXx">via GIPHY</a></p></h1>
 <img width="55%" align="right" src="https://media.giphy.com/media/ITRemFlr5tS39AzQUL/giphy.gif" />
 Here are some things that I am:
 
@@ -36,7 +36,7 @@ Here are some things that I am:
 <a href="https://icons8.com/icon/20909/html-5"><img width ='32px' src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
 </div>
 
-<h1 align="center"> My Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h1>
+<h1 align="center"> My Stats <img src="https://img.icons8.com/external-prettycons-lineal-color-prettycons/49/000000/external-stats-business-and-finance-prettycons-lineal-color-prettycons.png"/></h1>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin-mm-dev&show_icons=true&theme=highcontrast&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
