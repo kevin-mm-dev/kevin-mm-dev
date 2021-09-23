@@ -11,11 +11,7 @@
   About Me 
   <img src="https://img.icons8.com/color/48/000000/dot-logo--v1.png" width= 20px></h1>
   
-<img style=";
-    
-    border-radius: 83px;
-            width: 215px;
-    box-shadow: 29px 13px 28px -10px #000000;" max-width= 100% src="https://media1.giphy.com/media/RQ8vM7tsD6Csw/giphy.gif?cid=790b761177e359afd330013b9883e33a9fedcc94e8bb0395&rid=giphy.gif&ct=g" />
+<img class="img" src="https://media1.giphy.com/media/RQ8vM7tsD6Csw/giphy.gif?cid=790b761177e359afd330013b9883e33a9fedcc94e8bb0395&rid=giphy.gif&ct=g" />
 Here are some things that I am:
 
 - 🔭 I’m currently working on Dtrez Desarrollos or Own projects to practice
@@ -53,3 +49,13 @@ Here are some things that I am:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-mm-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Metrics](https://metrics.lecoq.io/kevin-mm-dev?template=classic&config.timezone=America%2FToronto)
+
+
+<style>
+    .img{
+    width: 215px;
+    border-radius: 83px;
+    box-shadow: 29px 13px 28px -10px #000000;
+   max-width: 100%
+    }
+</style>
