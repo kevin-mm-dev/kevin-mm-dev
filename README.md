@@ -7,7 +7,7 @@
 <br><br>  
 
 <h1 align="center"> About Me <img src="https://media1.giphy.com/media/SYjYYopqUTBtE3XZxg/giphy.gif?cid=ecf05e47bwy3m5dxcc60ttw1mxkegfhiit2uv8aeyt2note2&rid=giphy.gif&ct=s" width = 50px></h1>
-<img width="55%" align="right" src="https://media1.giphy.com/media/NXEuPHCOiJujANVznL/giphy.gif?cid=790b7611fa5f0c2c2b798d84fea9683e63d3464f2f1ac883&rid=giphy.gif&ct=g" />
+<img width="55%" align="right" src="https://media3.giphy.com/media/MQTF1uW0GTZoVsseXx/giphy.gif?cid=790b7611c54cd9c9ec379819315c51f514787c93ad2032b6&rid=giphy.gif&ct=g" />
 Here are some things that I am:
 
 - 🔭 I’m currently working on Dtrez Desarrollos or Own projects to practice
