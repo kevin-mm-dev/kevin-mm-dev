@@ -10,7 +10,11 @@
   <img src="https://img.icons8.com/color/48/000000/dot-logo--v1.png" width= 20px> 
   About Me 
   <img src="https://img.icons8.com/color/48/000000/dot-logo--v1.png" width= 20px></h1>
-<img width="55%" align="right" src="https://media1.giphy.com/media/RQ8vM7tsD6Csw/giphy.gif?cid=790b761177e359afd330013b9883e33a9fedcc94e8bb0395&rid=giphy.gif&ct=g" />
+<img style="max-width: 100%;
+    width: 215px;
+    border-radius: 83px;
+    align:'right' 
+    box-shadow: 29px 13px 28px -10px #000000;"src="https://media1.giphy.com/media/RQ8vM7tsD6Csw/giphy.gif?cid=790b761177e359afd330013b9883e33a9fedcc94e8bb0395&rid=giphy.gif&ct=g" />
 Here are some things that I am:
 
 - 🔭 I’m currently working on Dtrez Desarrollos or Own projects to practice
@@ -26,21 +30,19 @@ Here are some things that I am:
 <br><br>
 <div align="center">
 
-    <a href="https://icons8.com/icon/20909/html-5" > <img width ='32px' src ="https://img.icons8.com/fluency/48/000000/arduino.png"> </a>
-    <a href="https://icons8.com/icon/20909/html-5" > <img width ='32px' src ="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"> </a>
-    <a href="https://icons8.com/icon/20909/html-5" > <img width ='32px' src ="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"> </a>
-    <a href="https://icons8.com/icon/20909/html-5" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-    <a href="https://icons8.com/icon/20909/html-5"><img width ='32px' src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
-    <a href="https://icons8.com/icon/20909/html-5"><img width ='32px' src="https://img.icons8.com/color/48/000000/css3.png"/></a>
-    <a href="https://icons8.com/icon/20909/html-5"><img width ='32px' src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
-    <a href="https://icons8.com/icon/20909/html-5" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-    <a href="https://icons8.com/icon/20909/html-5" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-    <a href="https://icons8.com/icon/20909/html-5"><img width ='32px' src="https://img.icons8.com/color/48/000000/vue-js.png"/></a>
-    <a href="https://icons8.com/icon/20909/html-5"><img width ='32px' src="https://img.icons8.com/fluency/48/000000/laravel.png"/></a>
-    <a href="https://icons8.com/icon/20909/html-5"><img width ='32px' src="https://img.icons8.com/dusk/64/000000/php-logo.png"/></a>
 
-
-
+<a href="https://icons8.com/icon/20909/html-5" > <img width ='32px' src ="https://img.icons8.com/fluency/48/000000/arduino.png"> </a>
+<a href="https://icons8.com/icon/20909/html-5" > <img width ='32px' src ="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"> </a>
+<a href="https://icons8.com/icon/20909/html-5" > <img width ='32px' src ="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"> </a>
+<a href="https://icons8.com/icon/20909/html-5" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+<a href="https://icons8.com/icon/20909/html-5" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
+<a href="https://icons8.com/icon/20909/html-5" > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href="https://icons8.com/icon/20909/html-5"><img width ='32px' src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
+<a href="https://icons8.com/icon/20909/html-5"><img width ='32px' src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+<a href="https://icons8.com/icon/20909/html-5"><img width ='32px' src="https://img.icons8.com/color/48/000000/vue-js.png"/></a>
+<a href="https://icons8.com/icon/20909/html-5"><img width ='32px' src="https://img.icons8.com/fluency/48/000000/laravel.png"/></a>
+<a href="https://icons8.com/icon/20909/html-5"><img width ='32px' src="https://img.icons8.com/dusk/64/000000/php-logo.png"/></a>
+<a href="https://icons8.com/icon/20909/html-5"><img width ='32px' src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
 </div>
 
 <h1 align="center"> My Stats <img src="https://img.icons8.com/external-prettycons-lineal-color-prettycons/49/000000/external-stats-business-and-finance-prettycons-lineal-color-prettycons.png" width = 20px></h1>
