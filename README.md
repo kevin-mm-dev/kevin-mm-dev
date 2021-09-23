@@ -10,10 +10,11 @@
   <img src="https://img.icons8.com/color/48/000000/dot-logo--v1.png" width= 20px> 
   About Me 
   <img src="https://img.icons8.com/color/48/000000/dot-logo--v1.png" width= 20px></h1>
+  
 <img style=";
-    width: 215px;
+    
     border-radius: 83px;
-    align:right;
+            width: 215px;
     box-shadow: 29px 13px 28px -10px #000000;" max-width= 100% src="https://media1.giphy.com/media/RQ8vM7tsD6Csw/giphy.gif?cid=790b761177e359afd330013b9883e33a9fedcc94e8bb0395&rid=giphy.gif&ct=g" />
 Here are some things that I am:
 
