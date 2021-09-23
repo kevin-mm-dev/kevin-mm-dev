@@ -6,8 +6,8 @@
 <h2 align="center">💻 A passionate Fullstack Jr from México ☕</h2>
 <br><br>  
 
-<h1 align="center"> About Me <iframe src="https://giphy.com/embed/MQTF1uW0GTZoVsseXx" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animated-gif-mograph-animation-MQTF1uW0GTZoVsseXx">via GIPHY</a></p></h1>
-<img width="55%" align="right" src="https://media.giphy.com/media/ITRemFlr5tS39AzQUL/giphy.gif" />
+<h1 align="center"> About Me <img src="https://media1.giphy.com/media/SYjYYopqUTBtE3XZxg/giphy.gif?cid=ecf05e47bwy3m5dxcc60ttw1mxkegfhiit2uv8aeyt2note2&rid=giphy.gif&ct=s" width = 50px></h1>
+<img width="55%" align="right" src="https://giphy.com/embed/MQTF1uW0GTZoVsseXx" />
 Here are some things that I am:
 
 - 🔭 I’m currently working on Dtrez Desarrollos or Own projects to practice
