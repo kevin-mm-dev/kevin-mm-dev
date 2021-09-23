@@ -2,11 +2,14 @@
 <img width="100%" height = "230px" src="https://i.ibb.co/Fn1NvgW/portadalinkeinfunny.jpg" alt="portadalinkeinfunny" alt="cover" />
   
 </div>
-<h1 align="center"> Console.log('Hello, I´m Kevin Martinez'); <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1 align="center"> Console.log('Hello, I´m Kevin Martinez'); <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width : 50px> </h1>
 <h2 align="center">💻 A passionate Fullstack Jr from México ☕</h2>
 <br><br>  
 
-<h1 align="center"><img src="https://img.icons8.com/color/48/000000/dot-logo--v1.png" width = 50px> About Me <img src="https://img.icons8.com/color/48/000000/dot-logo--v1.png" width = 50px></h1>
+<h1 align="center">
+  <img src="https://img.icons8.com/color/48/000000/dot-logo--v1.png" width: 20px;> 
+  About Me 
+  <img src="https://img.icons8.com/color/48/000000/dot-logo--v1.png" width: 20px;></h1>
 <img width="55%" align="right" src="https://media3.giphy.com/media/MQTF1uW0GTZoVsseXx/giphy.gif?cid=790b7611c54cd9c9ec379819315c51f514787c93ad2032b6&rid=giphy.gif&ct=g" />
 Here are some things that I am:
 
