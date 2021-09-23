@@ -13,7 +13,7 @@
 <img style="max-width: 100%;
     width: 215px;
     border-radius: 83px;
-    align:'right' 
+    align:'right';
     box-shadow: 29px 13px 28px -10px #000000;"src="https://media1.giphy.com/media/RQ8vM7tsD6Csw/giphy.gif?cid=790b761177e359afd330013b9883e33a9fedcc94e8bb0395&rid=giphy.gif&ct=g" />
 Here are some things that I am:
 
