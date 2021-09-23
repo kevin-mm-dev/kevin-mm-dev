@@ -6,7 +6,7 @@
 <h2 align="center">💻 A passionate Fullstack Jr from México ☕</h2>
 <br><br>  
 
-<h1 align="center"> About Me <img src="https://media1.giphy.com/media/SYjYYopqUTBtE3XZxg/giphy.gif?cid=ecf05e47bwy3m5dxcc60ttw1mxkegfhiit2uv8aeyt2note2&rid=giphy.gif&ct=s" width = 50px></h1>
+<h1 align="center"><img src="https://img.icons8.com/color/48/000000/dot-logo--v1.png" width = 50px> About Me <img src="https://img.icons8.com/color/48/000000/dot-logo--v1.png" width = 50px></h1>
 <img width="55%" align="right" src="https://media3.giphy.com/media/MQTF1uW0GTZoVsseXx/giphy.gif?cid=790b7611c54cd9c9ec379819315c51f514787c93ad2032b6&rid=giphy.gif&ct=g" />
 Here are some things that I am:
 
@@ -36,7 +36,7 @@ Here are some things that I am:
 <a href="https://icons8.com/icon/20909/html-5"><img width ='32px' src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
 </div>
 
-<h1 align="center"> My Stats <img src="https://img.icons8.com/external-prettycons-lineal-color-prettycons/49/000000/external-stats-business-and-finance-prettycons-lineal-color-prettycons.png"/></h1>
+<h1 align="center"> My Stats <img src="https://img.icons8.com/external-prettycons-lineal-color-prettycons/49/000000/external-stats-business-and-finance-prettycons-lineal-color-prettycons.png" width = 32px>/></h1>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin-mm-dev&show_icons=true&theme=highcontrast&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
