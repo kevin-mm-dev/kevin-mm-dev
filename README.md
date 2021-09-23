@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "230px" src="https://ibb.co/d01n9dT" alt="portadalinkeinfunny" alt="cover" />
+<img width="100%" height = "230px" src="https://i.ibb.co/gMHs152/Capa-3.png" alt="portadalinkeinfunny" alt="cover" />
   
 </div>
 <h1 align="center"> Console.log('Hello, I´m Kevin Martinez'); <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
