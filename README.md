@@ -18,8 +18,7 @@ Here are some things that I am:
 
 - 🔭 I’m currently working on Dtrez Desarrollos or Own projects to practice
 - 🌱 I’m currently learning new things like react,express,redux,angular,flutter
-- 👯 I’m looking to collaborate on a lot projects to learn more 
-- 🤔 I’m looking for help with stack overflow and google
+- 👯 I’m looking to collaborate on a lot projects to learn more
 - 💬 Ask me about I will want to learn or about my knowledges
 - 📫 How to reach me: kevin.mm.dev@gmail.com
 - ⚡ Fun fact: I love movies and play video games also I like to go the gym and learn more about all 
